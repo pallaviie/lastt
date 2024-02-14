@@ -70,7 +70,7 @@ height: 200px;
 .img{
 position: relative;
 bottom: 280px;
-left: 290px;
+left: 260px;
 }
 
 /*box2*/
@@ -148,6 +148,7 @@ left: 290px;
     padding-bottom: 50px;
 }
 
+
 /*box8*/
 .contain8{
     position: relative;
@@ -189,13 +190,14 @@ left: 290px;
 .possible{
     display: flex;
     justify-content: end;
-    
+    background-color: #e3981f;
 }
 .curll{
  position: relative;
 bottom: 50px;
-left: 70%;
-bottom: 60%;
+right: 20%;
+
+bottom: 50%;
 }
 .contain12{
     position: relative;
@@ -232,5 +234,6 @@ bottom: 60%;
 /*box14*/
 .contain14{
     position: relative;
-    top: 600px;
+    top: 500px;
 }
+/*box15*/
